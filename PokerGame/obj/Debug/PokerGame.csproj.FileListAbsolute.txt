@@ -1,0 +1,9 @@
+c:\users\thomas\documents\visual studio 2015\Projects\PokerGame\PokerGame\bin\Debug\PokerGame.exe.config
+c:\users\thomas\documents\visual studio 2015\Projects\PokerGame\PokerGame\bin\Debug\PokerGame.exe
+c:\users\thomas\documents\visual studio 2015\Projects\PokerGame\PokerGame\bin\Debug\PokerGame.pdb
+c:\users\thomas\documents\visual studio 2015\Projects\PokerGame\PokerGame\obj\Debug\PokerGame.csprojResolveAssemblyReference.cache
+c:\users\thomas\documents\visual studio 2015\Projects\PokerGame\PokerGame\obj\Debug\PokerGame.exe
+c:\users\thomas\documents\visual studio 2015\Projects\PokerGame\PokerGame\obj\Debug\PokerGame.pdb
+C:\Users\thomas\Documents\Git Projects\School Projects\PokerGame\PokerGame\bin\Debug\PokerGame.exe.config
+C:\Users\thomas\Documents\Git Projects\School Projects\PokerGame\PokerGame\obj\Debug\PokerGame.exe
+C:\Users\thomas\Documents\Git Projects\School Projects\PokerGame\PokerGame\obj\Debug\PokerGame.pdb
